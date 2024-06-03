@@ -1,0 +1,225 @@
+
+ ***location (0): 	 word: record	 meaning:  to write down/something important
+ ***location (1): 	 word: ---
+ ***location (2): 	 word: applesauce	 meaning:  made when cooking apples
+ ***location (3): 	 word: grandchildren	 meaning:  children of your children
+ ***location (4): 	 word: ---
+ ***location (5): 	 word: shriek	 meaning:  a loud sound
+ ***location (6): 	 word: vast	 meaning:  huge, abc, xyz
+ ***location (7): 	 word: ---
+ ***location (8): 	 word: purchase	 meaning:  buy, abc, xyz
+ ***location (9): 	 word: crosswalk	 meaning:  where you should cross street
+ ***location (10): 	 word: stake	 meaning:  a stick that you hammer into ground
+ ***location (11): 	 word: keyboard	 meaning:  part of a piano that you play
+ ***location (12): 	 word: hairbrush	 meaning:  what you use to brush hair
+ ***location (13): 	 word: vacant	 meaning:  empty, abc, xyz
+ ***location (14): 	 word: paws	 meaning:  feet
+ ***location (15): 	 word: fur	 meaning:  covering of most animals
+ ***location (16): 	 word: aunt	 meaning:  female relative
+ ***location (17): 	 word: creek	 meaning:  a smaller,  moving body of water
+ ***location (18): 	 word: annual	 meaning:  yearly, abc, xyz
+ ***location (19): 	 word: repair	 meaning:  fix
+ ***location (20): 	 word: echoes	 meaning:  repeated sounds
+ ***location (21): 	 word: banner	 meaning:  flag, abc, xyz
+ ***location (22): 	 word: boss	 meaning:  the person in charge of a job
+ ***location (23): 	 word: host	 meaning:  one who gives the party
+ ***location (24): 	 word: steak	 meaning:  meat you eat
+ ***location (25): 	 word: ballet	 meaning:  a form of dance
+ ***location (26): 	 word: bus	 meaning:  what some kids ride to school
+ ***location (27): 	 word: geese	 meaning:  large birds that make honking sound
+ ***location (28): 	 word: mitt	 meaning:  what baseball players catch with
+ ***location (29): 	 word: sheep	 meaning:  animals whose fur is used for wool
+ ***location (30): 	 word: mysteries	 meaning:  things that are secret or hard to explain
+ ***location (31): 	 word: attic	 meaning:  at the top of the house
+ ***location (32): 	 word: zoo	 meaning:  a place where animals are kept
+ ***location (33): 	 word: oxen	 meaning:  large farm animals in the cattle family
+ ***location (34): 	 word: plaza	 meaning:  an open space in a city or town
+ ***location (35): 	 word: infant	 meaning:  baby
+ ***location (36): 	 word: loft	 meaning:  a room just under the roof of a building
+ ***location (37): 	 word: piglet	 meaning:  a baby pig
+ ***location (38): 	 word: furious	 meaning:  angry, abc, xyz
+ ***location (39): 	 word: bright	 meaning:  light
+ ***location (40): 	 word: ---
+ ***location (41): 	 word: meadow	 meaning:  field, abc, xyz
+ ***location (42): 	 word: drum	 meaning:  something you hit to make sounds
+ ***location (43): 	 word: springboard	 meaning:  flexible board to jump from
+ ***location (44): 	 word: stalk	 meaning:  stem	, abc, xyz
+ ***location (45): 	 word: prank	 meaning:  trick, abc, xyz
+ ***location (46): 	 word: turtleneck	 meaning:  a long neck
+ ***location (47): 	 word: auto	 meaning:  a form of transportation
+ ***location (48): 	 word: joey	 meaning:  a baby kangaroo, abc, xyz
+ ***location (49): 	 word: bury	 meaning:  to cover up
+ ***location (50): 	 word: kit	 meaning:  a baby fox
+ ***location (51): 	 word: sketches	 meaning:  quick drawings
+ ***location (52): 	 word: ---
+ ***location (53): 	 word: ---
+ ***location (54): 	 word: ---
+ ***location (55): 	 word: ---
+ ***location (56): 	 word: ---
+ ***location (57): 	 word: ---
+ ***location (58): 	 word: absent	 meaning:  missing, abc, xyz
+ ***location (59): 	 word: halves	 meaning:  two equal parts
+ ***location (60): 	 word: loyal	 meaning:  faithful, abc, xyz
+ ***location (61): 	 word: pause	 meaning:  take a break
+ ***location (62): 	 word: yearn	 meaning:  to really long for something
+ ***location (63): 	 word: beehive	 meaning:  where bees make honey
+ ***location (64): 	 word: cygnet	 meaning:  a young swan, abc, xyz
+ ***location (65): 	 word: ---
+ ***location (66): 	 word: ---
+ ***location (67): 	 word: ---
+ ***location (68): 	 word: moose	 meaning:  a large animal with antlers
+ ***location (69): 	 word: shiver	 meaning:  shudder, abc, xyz
+ ***location (70): 	 word: ---
+ ***location (71): 	 word: dinghy	 meaning:  a small boat
+ ***location (72): 	 word: orbit	 meaning:  circle, abc, xyz
+ ***location (73): 	 word: ---
+ ***location (74): 	 word: patio	 meaning:  a paved area near a house
+ ***location (75): 	 word: principal	 meaning:  the head of a school
+ ***location (76): 	 word: ---
+ ***location (77): 	 word: ---
+ ***location (78): 	 word: ---
+ ***location (79): 	 word: waterfall	 meaning:  when water drops over a cliff
+ ***location (80): 	 word: ---
+ ***location (81): 	 word: ---
+ ***location (82): 	 word: ---
+ ***location (83): 	 word: slosh	 meaning:  splash, abc, xyz
+ ***location (84): 	 word: ---
+ ***location (85): 	 word: ---
+ ***location (86): 	 word: bravo	 meaning:  what an audience yells when they like the performance
+ ***location (87): 	 word: ---
+ ***location (88): 	 word: ---
+ ***location (89): 	 word: ---
+ ***location (90): 	 word: ---
+ ***location (91): 	 word: coast	 meaning:  land along the sea
+ ***location (92): 	 word: ---
+ ***location (93): 	 word: catfish	 meaning:  a fish with whiskers
+ ***location (94): 	 word: principle	 meaning:  a rule
+ ***location (95): 	 word: ---
+ ***location (96): 	 word: ---
+ ***location (97): 	 word: council	 meaning:  a group of people making plans
+ ***location (98): 	 word: ---
+ ***location (99): 	 word: adult	 meaning:  grownup
+ ***location (100): 	 word: pizza	 meaning:  a kind of pie with cheese and tomatoes on a crust
+ ***location (101): 	 word: ---
+ ***location (102): 	 word: kindergarten	 meaning:  before 1st grade
+ ***location (103): 	 word: ---
+ ***location (104): 	 word: threw	 meaning:  past tense of throw
+ ***location (105): 	 word: ---
+ ***location (106): 	 word: ---
+ ***location (107): 	 word: ---
+ ***location (108): 	 word: ---
+ ***location (109): 	 word: lead	 meaning:  to be at the beginning/a type of metal
+ ***location (110): 	 word: ---
+ ***location (111): 	 word: pleasure	 meaning:  a happy feeling
+ ***location (112): 	 word: gosling	 meaning:  a baby goose
+ ***location (113): 	 word: slumber	 meaning:  sleep, abc, xyz
+ ***location (114): 	 word: spaceship	 meaning:  what an astronaut rides in
+ ***location (115): 	 word: ---
+ ***location (116): 	 word: ---
+ ***location (117): 	 word: lunchtime	 meaning:  middle meal of the day
+ ***location (118): 	 word: ---
+ ***location (119): 	 word: ---
+ ***location (120): 	 word: ---
+ ***location (121): 	 word: ---
+ ***location (122): 	 word: ---
+ ***location (123): 	 word: scorekeeper	 meaning:  someone who keeps score
+ ***location (124): 	 word: ---
+ ***location (125): 	 word: overcast	 meaning:  cloudy, abc, xyz
+ ***location (126): 	 word: ---
+ ***location (127): 	 word: plea	 meaning:  to beg for something
+ ***location (128): 	 word: reply	 meaning:  answer, abc, xyz
+ ***location (129): 	 word: ---
+ ***location (130): 	 word: ---
+ ***location (131): 	 word: ---
+ ***location (132): 	 word: ---
+ ***location (133): 	 word: assist	 meaning:  help, abc, xyz
+ ***location (134): 	 word: glee	 meaning:  joy
+ ***location (135): 	 word: rowboat	 meaning:  small boat  moved by rowing
+ ***location (136): 	 word: sandbox	 meaning:  where kids play with sand
+ ***location (137): 	 word: ---
+ ***location (138): 	 word: feeble	 meaning:  weak, abc, xyz
+ ***location (139): 	 word: calf	 meaning:  a baby cow,  elephant,  or whale
+ ***location (140): 	 word: ---
+ ***location (141): 	 word: peak	 meaning:  top of a mountain
+ ***location (142): 	 word: berry	 meaning:  a fruit
+ ***location (143): 	 word: ---
+ ***location (144): 	 word: garage	 meaning:  a place to park cars
+ ***location (145): 	 word: through	 meaning:  from here to there
+ ***location (146): 	 word: mammoth	 meaning:  large, abc, xyz
+ ***location (147): 	 word: bike	 meaning:  something you pedal to make its wheels move
+ ***location (148): 	 word: lend	 meaning:  to give something
+ ***location (149): 	 word: ---
+ ***location (150): 	 word: sturdy	 meaning:  strong, abc, xyz
+ ***location (151): 	 word: limb	 meaning:  a branch of a tree
+ ***location (152): 	 word: chipmunk	 meaning:  a small animal resembling a squirrel
+ ***location (153): 	 word: rainbow	 meaning:  a band of colors
+ ***location (154): 	 word: bungalow	 meaning:  a small,  one story house
+ ***location (155): 	 word: foal	 meaning:  a young horse or donkey, abc, xyz
+ ***location (156): 	 word: peek	 meaning:  to look
+ ***location (157): 	 word: gracious	 meaning:  polite
+ ***location (158): 	 word: freighter	 meaning:  a ship that carries cargo, abc, xyz
+ ***location (159): 	 word: bothersome	 meaning:  annoying, abc, xyz
+ ***location (160): 	 word: rude	 meaning:  not polite
+ ***location (161): 	 word: wild	 meaning:  untamed, abc, xyz
+ ***location (162): 	 word: counsel	 meaning:  to give advice
+ ***location (163): 	 word: borrow	 meaning:  you get something
+ ***location (164): 	 word: deep	 meaning:  many feet of water, abc, xyz
+ ***location (165): 	 word: lab	 meaning:  where scientists do their research
+ ***location (166): 	 word: ---
+ ***location (167): 	 word: wind	 meaning:  air that moves/to turn
+ ***location (168): 	 word: sloppy	 meaning:  messy
+ ***location (169): 	 word: pain	 meaning:  what you feel when something bad happens, abc, xyz
+ ***location (170): 	 word: ---
+ ***location (171): 	 word: wail	 meaning:  cry
+ ***location (172): 	 word: ---
+ ***location (173): 	 word: ---
+ ***location (174): 	 word: kid	 meaning:  a young goat, abc, xyz
+ ***location (175): 	 word: neat	 meaning:  tidy
+ ***location (176): 	 word: exam	 meaning:  a kind of test
+ ***location (177): 	 word: helm	 meaning:  the wheel used for steering the ship, abc, xyz
+ ***location (178): 	 word: math	 meaning:  the study of numbers,  shapes,  and measurements
+ ***location (179): 	 word: feet	 meaning:  at  he end of our legs
+ ***location (180): 	 word: ---
+ ***location (181): 	 word: foe	 meaning:  enemy, abc, xyz
+ ***location (182): 	 word: ---
+ ***location (183): 	 word: ---
+ ***location (184): 	 word: homework	 meaning:  assignment done at home
+ ***location (185): 	 word: ---
+ ***location (186): 	 word: shallow	 meaning:  not much water, abc, xyz
+ ***location (187): 	 word: live	 meaning:  living/to dwell
+ ***location (188): 	 word: dove	 meaning:  bird/past tense of dive
+ ***location (189): 	 word: ---
+ ***location (190): 	 word: cub	 meaning:  a young bear,  lion,  or tiger
+ ***location (191): 	 word: task	 meaning:  job, abc, xyz
+ ***location (192): 	 word: ---
+ ***location (193): 	 word: ---
+ ***location (194): 	 word: dim	 meaning:  not much light
+ ***location (195): 	 word: ---
+ ***location (196): 	 word: eyelid	 meaning:  protects your eye
+ ***location (197): 	 word: fern	 meaning:  a kind of plant
+ ***location (198): 	 word: birdbath	 meaning:  bath for birds
+ ***location (199): 	 word: ill	 meaning:  sick, abc, xyz
+ ***location (200): 	 word: sub	 meaning:  something that travels under water
+ ***location (201): 	 word: fawn	 meaning:  a baby deer
+ ***location (202): 	 word: railroad	 meaning:  what trains travel on
+ ***location (203): 	 word: frayed	 meaning:  worn, abc, xyz
+ ***location (204): 	 word: noodle	 meaning:  made of flour,  water,  and eggs
+ ***location (205): 	 word: voyage	 meaning:  trip, abc, xyz
+ ***location (206): 	 word: ---
+ ***location (207): 	 word: ---
+ ***location (208): 	 word: drowsy	 meaning:  sleepy, abc, xyz
+ ***location (209): 	 word: ---
+ ***location (210): 	 word: flexible	 meaning:  bends easily, abc, xyz
+ ***location (211): 	 word: fir	 meaning:  a kind of evergreen tree
+ ***location (212): 	 word: ---
+ ***location (213): 	 word: ---
+ ***location (214): 	 word: break	 meaning:  shatter
+ ***location (215): 	 word: rigid	 meaning:  stiff, abc, xyz
+ ***location (216): 	 word: ---
+ ***location (217): 	 word: whale	 meaning:  a large animal living in the sea
+ ***location (218): 	 word: hillside	 meaning:  steep,  sloping land
+ ***location (219): 	 word: cellar	 meaning:  at the bottom of the house
+ ***location (220): 	 word: lurk	 meaning:  wait, abc, xyz
+ ***location (221): 	 word: ---
+ ***location (222): 	 word: ant	 meaning:  an insect
+

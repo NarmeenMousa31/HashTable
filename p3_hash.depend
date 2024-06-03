@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1705862416 source:c:\users\narmeen mousa\desktop\semester 2021-2022\data structures and algorithms\p3_hash\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
